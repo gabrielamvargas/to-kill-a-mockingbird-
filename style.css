@@ -1,0 +1,61 @@
+* {
+    margin:0;
+    padding:0;
+    border:none;
+}
+.colWith12-12 {
+    width:100%;
+}
+.colWidth6-12 {
+    width:50%
+}
+.colWidth3-12 {
+    width:25%
+}
+.hi50 a {
+color:white;
+text-decoration:none;
+}
+.hi50 {
+    height:50px;
+    background-color: rgba(0,0,0,.6);
+}
+.flexCentered {
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+img {width:100%;
+
+    height:300px;}
+
+p{
+    font-family:'Libre Baskerville', serif;
+    margin-left: 10px;
+    margin-right: 10px; 
+    font-size: 18px;
+  
+}
+
+.newspaper {
+    column-count:3;
+    width: 100%;
+    padding: 10px;
+    height: 500spx;
+    text-align: justify; 
+
+}
+
+.foto-personaje {
+    width: 50%;
+    height: 40%; 
+}
+
+.cita{
+    font-size: 30px;
+    
+  
+}
